@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SnowyFalse
-- 👀 I’m interested in web development, game development, web design, game design and climbing
+- 👀 I’m interested in web development, game development, web design, game design and light installations
 - 🌱 I’m currently learning UI/UX design and React
 
 <!---
